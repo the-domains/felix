@@ -1,0 +1,14 @@
+layout_spectrum: 0.1450629
+typography_spectrum: 0.3154921
+color:
+  saturation: 0.744156
+  lightness: 0.3924067
+  brandStrength: 0.5489362
+  brandColors:
+    - '#020201'
+    - '#AB9A80'
+    - '#FFFFFF'
+    - '#6C4321'
+    - '#5D6E76'
+  rhythmicContrast: 0.4994757
+name: Felix
