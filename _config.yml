@@ -1,14 +1,7 @@
-color:
-  saturation: 0.744156
-  brandStrength: 0.5489362
-  rhythmicContrast: 0.4994757
-  brandColors:
-    - '#020201'
-    - '#AB9A80'
-    - '#FFFFFF'
-    - '#6C4321'
-    - '#5D6E76'
-  lightness: 0.3924067
+name: Felix
+favicon: null
+layout_spectrum: 0.1450629
+typography_spectrum: 0.3154921
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1450629
-typography_spectrum: 0.3154921
-name: Felix
+title: Felix Hofmann
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#020201'
+    - '#AB9A80'
+    - '#FFFFFF'
+    - '#6C4321'
+    - '#5D6E76'
+  brandStrength: 0.5489362
+  lightness: 0.3924067
+  saturation: 0.744156
+  rhythmicContrast: 0.4994757
+purpose: []
